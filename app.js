@@ -26,7 +26,7 @@ newButton();
 		newBtn.click(function addGiphy(){
 
 				//query api for giphys with the buttonName as the subject
-				var queryUrl = "http://api.giphy.com/v1/gifs/random?api_key=dc6zaTOxFJmzC&tag=" + buttonName;
+				var queryUrl = "https://api.giphy.com/v1/gifs/random?api_key=dc6zaTOxFJmzC&tag=" + buttonName;
 
 				$.ajax({
 
