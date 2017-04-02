@@ -1,0 +1,21 @@
+#buttonDiv{
+
+	padding-top: 30px;
+	padding-left: 50px;
+}
+
+img{padding-top: 30px;
+	padding-left: 30px;
+}
+
+.btn{
+
+	background-color: #367588;
+	color: white;
+	font-weight: bold;
+}
+
+.giphyHeader{
+	padding-top: 30px;
+	padding-left: 30px;
+}
